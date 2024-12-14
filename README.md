@@ -21,6 +21,7 @@ Dibagian navbar terdapat 5 menu yang dirancang untuk memudahkan navigasi penggun
    Menu ini menyediakan akses langsung ke CV pemilik. Ketika menu ditekan, pengunjung dapat melihat dokumen CV yang memuat detail tentang pengalaman, pendidikan, kemampuan, dan hobi. Fitur ini berguna bagi pengunjung untuk mengetahui informasi lebih detail.
 
 ## Pengenalan Singkat
+![reference_image](/images/2.png)
 
 ## Services
 
